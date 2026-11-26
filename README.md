@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/bright-sparrow-21-7895/funniest-out-of-office/rank.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-funniest-out-of-office-054815cf)
 [![reward](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/bright-sparrow-21-7895/funniest-out-of-office/reward.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-funniest-out-of-office-054815cf)
 
-The funniest out-of-office line: for urgent matters, please reflect on why everything is always urgent.
+I'm out of office — my out-of-office is also out of office; please bother the void.
 
 ## Run it
 

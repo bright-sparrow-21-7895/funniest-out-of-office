@@ -1,20 +1,13 @@
-"""Funniest out-of-office auto-reply, in one line.
+from pathlib import Path
 
-The joke: every out-of-office message has an "for urgent matters, contact..."
-escape hatch, and everyone uses it for everything. This one refuses the
-hatch and hands the urgency back to the sender — if everything is always
-urgent, the problem is not the person who is away.
-"""
-
-import os
-
-ENTRY = "I am out of office. For urgent matters, please reflect on why everything is always urgent."
+# The entry: a single-line out-of-office auto-reply (83 characters).
+ENTRY = "I'm out of office — my out-of-office is also out of office; please bother the void."
 
 
-def main():
-    os.makedirs("/output", exist_ok=True)
-    with open("/output/entry.txt", "w", encoding="utf-8", newline="") as f:
-        f.write(ENTRY)
+def main() -> None:
+    out = Path("/output/entry.txt")
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(ENTRY, encoding="utf-8")
 
 
 if __name__ == "__main__":
